@@ -1,0 +1,1 @@
+export { useCartDetailHook } from "./useCartDetailHook";
